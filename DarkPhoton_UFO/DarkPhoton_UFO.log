@@ -1,0 +1,87 @@
+# This file was automatically created by FeynRules 2.3.36
+# Mathematica version: 12.0.0 for Linux x86 (64-bit) (April 7, 2019)
+# Date: Thu 4 Mar 2021 16:25:59
+
+
+# 
+# This is the logfile for the model DarkPhoton
+
+# Authors: Yiming Zhong
+# Model version: 0.6
+# Checking the Quantum numbers
+   * Electric charge defined.
+# Checking the Lagrangians
+   * All Lagrangians are ok.
+#
+# Particle definitions
+#
+
+   * No particles removed. All particles correspond to GenInt setup.
+
+# Automatically assigned PDG numbers
+   * Assigned PDG number 9000001 to particle ghA
+   * Assigned PDG number 9000002 to particle ghZ
+   * Assigned PDG number 9000003 to particle ghWp
+   * Assigned PDG number 9000004 to particle ghWm
+
+
+# Compulsory PDG codes:
+   * Class SM leptons complete.
+   * Class SM neutrinos complete.
+   * Class SM quarks complete.
+   * Class SM gauge bosons complete.
+#
+# Parameter definitions
+#
+
+   * Parameter WAp has no value. Default value 1 assigned.
+
+
+# Vertices
+   * Calling FeynmanRules for 1 Lagrangians.
+   * Number of classes vertices: 32
+   * Number of flavored vertices: 78
+   * Saved vertices in InterfaceRun[ 1 ].
+   * Checked QNumber conservation.
+      - Quantum number GhostNumber conserved in all vertices.
+      - Quantum number LeptonNumber conserved in all vertices.
+      - Quantum number Q conserved in all vertices.
+      - Quantum number Y conserved in all vertices.
+   * particles.py written.
+   * parameters.py written.
+#
+# Vertex definitions
+#
+
+   * 78 vertices written.
+   * vertices.py written.
+#
+# Lorentz structure definitions
+#
+
+   * 15 lorentz structures written.
+   * lorentz.py written.
+#
+# Coupling definitions
+#
+
+   * 54 couplings written.
+   * couplings.py written.
+#
+# Coupling order definitions
+#
+
+   * 0 couplings orders written.
+   * coupling_orders.py written.
+#
+# Decay definitions
+#
+
+   * 13 decays written.
+   * decay.py not written
+#
+# CTCoupling definitions
+#
+
+   * 0 CTcouplings written.
+   * CT_couplings.py written.
