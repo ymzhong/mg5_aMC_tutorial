@@ -1,6 +1,6 @@
 # mg5_aMC_tutorial
 
-The repository contains material for the [MadGraph 5 aMC@NLO](https://launchpad.net/mg5amcnlo) (MG5_aMC) tutorial at the [1st Workshop on New Light Physics and Photon-beam Experiments](https://indico.jlab.org/event/413/). It includes:
+The repository contains material for the [MadGraph 5 aMC@NLO](https://launchpad.net/mg5amcnlo) (MG5_aMC) tutorial at the [1st Workshop on New Light Physics and Photon-beam Experiments](https://indico.jlab.org/event/413/). Besides the tutorial PDF, it includes:
 
 1. [DarkPhoton_UFO](./DarkPhoton_UFO) is a Universal FeynRules Output model where a dark photon couples to electrons, muons, or taus.
 
