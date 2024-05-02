@@ -10,4 +10,4 @@ The repository contains material for the [MadGraph 5 aMC@NLO](https://launchpad.
 
 4. [unweighted_events.lhe.gz](./unweighted_events.lhe.gz) is an MG5_aMC output example for e+ e- → γ A', A' → e+ e- at the BaBar.
 
-For any questions on the model or the notebook, please contact Yiming Zhong (ymzhong@kicp.uchicago.edu).
+For any questions on the model or the notebook, please contact Yiming Zhong (yiming.zhong@cityu.edu.hk).
