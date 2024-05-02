@@ -6,7 +6,7 @@ The repository contains material for the [MadGraph 5 aMC@NLO](https://launchpad.
 
 2. [analysis_LHE_output.ipynb](./analysis_LHE_output.ipynb) is a Jupyter notebook that converts \*.lhe files to \*.npy files. It also contains an example to use python to anlysize events for e+ e- → γ A', A' → e+ e- process at the [BaBar](https://en.wikipedia.org/wiki/BaBar_experiment). 
 
-3. [LHEtoPython](./LHEtoPython) is a script used to convert LHE output from MG5_aMC (please give it permission). 
+3. [LHEtoPython](./LHEtoPython) is a script used to convert LHE output from MG5_aMC (please give it permission, i.e., run chmod a+x scriptname). 
 
 4. [unweighted_events.lhe.gz](./unweighted_events.lhe.gz) is an MG5_aMC output example for e+ e- → γ A', A' → e+ e- at the BaBar.
 
