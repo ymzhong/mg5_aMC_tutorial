@@ -14,6 +14,4 @@ For any questions on the model or the notebook, please contact Yiming Zhong (yim
 
 ### Why is it called MadGraph?
 
-Bill Long, while a student at the University of Wisconsin-Madison, developed a program to generate Feynman diagrams on a computer in the 1990s. The author of [HELAS](https://lib-extopc.kek.jp/preprints/PDF/1991/9124/9124011.pdf) saw this program and suggested combining it with HELAS by replacing the diagrams with the corresponding wave functions or vertices from HELAS. This combination led to the creation of the Mad(ison)Graph.
-
-— Source: Tao Han
+Bill Long, while a student at the University of Wisconsin-Madison, developed a program to generate Feynman diagrams on a computer in the 1990s. The author of [HELAS](https://lib-extopc.kek.jp/preprints/PDF/1991/9124/9124011.pdf) saw this program and suggested combining it with HELAS by replacing the diagrams with the corresponding wave functions or vertices from HELAS. This combination led to the creation of the Mad(ison)Graph. (Source: Tao Han)
